@@ -1,0 +1,21 @@
+{
+  "name": "tweetql",
+  "version": "1.0.0",
+  "directories": "",
+  "repository": "https://github.com/RoJaebl/tweetql",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "RoJaebl",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.10.3",
+    "graphql": "^16.6.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "type": "module"
+}
